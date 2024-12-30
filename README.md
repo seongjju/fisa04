@@ -31,6 +31,9 @@ unordered list
 name="jsj"
 age=26
 ```
+| name | gender |
+|------|--------|
+|정성주|Male|
 
 add new line
 
