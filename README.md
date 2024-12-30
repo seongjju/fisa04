@@ -39,7 +39,7 @@ age=26
 [네이버](https://naver.com)
 
 ```[링크가 깨졌을 때 나올 안내 메시지]()```
-[강아지](https://imgur.com/eZLb9uj.png)
+![강아지](https://imgur.com/eZLb9uj.png)
 ```![고양이입니다](https://i.imgur.com/knCvaRQ.png)```
 
 add new line
