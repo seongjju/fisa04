@@ -25,6 +25,13 @@ unordered list
 - 목차 2
   -   하위 목차 1
 
+강조하고 싶은 한줄 코드 `python`
+
+```python
+name="jsj"
+age=26
+```
+
 add new line
 
 add third new line
