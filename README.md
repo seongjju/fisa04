@@ -35,9 +35,11 @@ age=26
 |------|--------|
 |정성주|Male|
 
-`[화면에 출력될 문자](링크)`
+```[화면에 출력될 문자](링크)```
 [네이버](https://naver.com)
 
+```[링크가 깨졌을 때 나올 안내 메시지]()```
+[강아지](https://imgur.com/eZLb9uj)
 add new line
 
 add third new line
