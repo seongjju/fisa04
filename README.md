@@ -40,6 +40,8 @@ age=26
 
 ```[링크가 깨졌을 때 나올 안내 메시지]()```
 [강아지](https://imgur.com/eZLb9uj.png)
+```![고양이입니다](https://i.imgur.com/knCvaRQ.png)```
+
 add new line
 
 add third new line
